@@ -1,0 +1,17 @@
+# PyCharm / JetBrains
+.idea/
+
+# Python virtual environment
+.venv/
+__pycache__/
+
+# macOS
+.DS_Store
+
+# PyCharm specific
+/shelf/
+/workspace.xml
+/queries/
+/dataSources/
+/dataSources.local.xml
+/httpRequests/
