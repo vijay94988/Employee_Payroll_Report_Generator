@@ -103,7 +103,3 @@ This project helped practice:
 * Exporting Excel reports
 
 ---
-
-## Author
-
-Alex
